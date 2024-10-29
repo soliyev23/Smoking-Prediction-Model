@@ -97,17 +97,6 @@ python smoking_prediction_model.py
      - Максимальная глубина
      - Минимальное количество образцов для разделения
 
-## Структура файлов
-```
-├── train.csv
-├── test.csv
-├── sample_submission.csv
-├── smoking_prediction_model.py
-├── requirements.txt
-├── learning_curve.png
-└── README.md
-```
-
 ## Анализ модели
 Репозиторий включает инструменты разведочного анализа данных:
 - Кривые обучения для визуализации производительности модели (см. график выше)
